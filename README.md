@@ -20,7 +20,8 @@ Features
 
 2. Table Page
 
-    --The table page displays data fetched from the API: http://146.190.118.121/api/table/.
+    --The table page displays data fetched from the API: 
+      https://technical-task-api.icapgroupgmbh.com/api/table/.
     --The table supports editing functionality for all fields.
     --Fields have validation based on backend rules.
     --Implements pagination, error handling, and loading indicators for a seamless user experience.
