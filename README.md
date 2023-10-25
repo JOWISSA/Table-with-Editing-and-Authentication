@@ -1,6 +1,6 @@
 Table with Editing and Authentication
 
-DEMO[]
+DEMO[https://jowissa.github.io/Table-with-Editing-and-Authentication/]
 
 This project implements a user authentication system and a dynamic table with editing functionality. Users can log in using credentials, and upon successful authentication, they can access a table displaying data fetched from the API. The table allows users to edit the data interactively.
 
