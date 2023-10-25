@@ -17,7 +17,7 @@ const LoginForm: React.FC<LoginFormProps> = ({ onLogin }) => {
     if (username === 'testuser' && password === 'testpassword123') {
       setError(Error.NONE);
       onLogin(username);
-      navigate('/table');
+      navigate('/tabs');
     } else if (username === '') {
       setError(Error.LOGIN_EMPTY);
       setTimeout(() => {
